@@ -32,7 +32,7 @@
 <!-- Languages and Tools Section -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img width="600px" src="https://skillicons.dev/icons?i=c,cpp,java,python,r,git,bash,linux,pytorch,tensorflow,vulkan,cuda,docker,vscode,html,css,js,react,nodejs,npm,mysql,matlab,opencv,powershell,sqlite,visualstudio&perline=12" />
+  <img width="600px" src="https://skillicons.dev/icons?i=c,cpp,java,python,r,git,bash,linux,pytorch,tensorflow,docker,vscode,html,css,js,react,nodejs,npm,mysql,matlab,opencv,powershell,sqlite,visualstudio&perline=12" />
 </p>
 
 <hr>
