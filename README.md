@@ -23,8 +23,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arnavsinha4334/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
   <a href="mailto:arnavsinha4334@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-  <a href="https://github.com/ArnavSinha/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
-  <a href="https://codeforces.com/profile/ArnavSinha"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a>
+  <a href="https://github.com/arnav43/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
+  <a href="https://leetcode.com/u/arnav43/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" height=23></a>
 </p>
 
 <hr>
@@ -32,7 +32,7 @@
 <!-- Languages and Tools Section -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img width="600px" src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,opencv,fastapi,flask,mysql,mongo,sqlite,html,css,js,react,cs,dotnet,cpp,matlab,md,git,vscode,docker,postman,linux&perline=12" />
+  <img width="600px" src="https://skillicons.dev/icons?i=c,cpp,java,python,r,git,bash,linux,openmp,pytorch,tensorflow,opengl,vulkan,cmake,cuda,docker,vscode,html,css,js,react,nodejs,mysql,postman,matlab&perline=12" />
 </p>
 
 <hr>
