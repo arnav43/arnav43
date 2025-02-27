@@ -32,27 +32,12 @@
 <!-- Languages and Tools Section -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img width="600px" src="https://skillicons.dev/icons?i=c,cpp,java,python,r,git,bash,linux,pytorch,tensorflow,docker,vscode,html,css,js,react,nodejs,npm,mysql,matlab,opencv,powershell,sqlite,visualstudio&perline=12" />
+  <img width="600px" src="https://skillicons.dev/icons?i=c,cpp,java,python,r,git,bash,visualstudio,linux,pytorch,tensorflow,docker,vscode,html,css,opencv,powershell,sqlite,js,react,nodejs,npm,mysql,matlab&perline=12" />
 </p>
 
 <hr>
 
-<!-- Stats Section -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<p align="center">
-  <a href="https:/github.com/arnav43/">
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav43&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</p>
 
-<hr>
-
-<!-- Popular Repos Section -->
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<p align="center">
-  <a href="https://github.com/arnav43/opengl-mini-projects">
-    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnav43&repo=Computer-Vision-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
 
 </p>
 
