@@ -11,11 +11,11 @@
   Hi, I'm Arnav Sinha, a passionate AI/ML and Computer Graphics enthusiast from India!  
   <br>
   <br>
-  👨‍🎓 I'm currently pursuing a Bachelor's degree in Computer Science at Vellore Institute of Technology (VIT).
+  👨‍🎓 I'm pursuing a Bachelor's in Computer Science at Vellore Institute of Technology (VIT).
   <br>
   💻 I love coding, solving problems, and diving deep into Deep Learning and Computer Vision.
   <br>
-  📚 Currently focusing on Data Science and Machine Learning.
+  💥 Currently working with Computer Graphics and GPGPU Programming.
   <br>
   📫 How to reach me 👇
 </p>
