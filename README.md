@@ -8,7 +8,7 @@
 
 ### <img src="/images/Developer.gif" alt="developer gif" height="45px"> About Me:
 <p align="center">
-  Hi, I'm Arnav Sinha, a passionate AI/ML and Computer Graphics enthusiast from India!  
+  Hey, I am Arnav Sinha, I love working with Computer Vision, AI/ML, and Computer Graphics! 
   <br>
   <br>
   👨‍🎓 I'm pursuing a Bachelor's in Computer Science at Vellore Institute of Technology (VIT).
