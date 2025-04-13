@@ -13,9 +13,9 @@
   <br>
   👨‍🎓 I'm pursuing a Bachelor's in Computer Science at Vellore Institute of Technology (VIT).
   <br>
-  💻 I love coding, solving problems, and diving deep into Deep Learning and Computer Vision.
+  💻 I love coding, solving problems, and diving deep into interesting topics.
   <br>
-  💥 Currently working with Computer Graphics and GPGPU Programming.
+  💥 Currently learning Computer Graphics and GPGPU Programming.
   <br>
   📫 How to reach me 👇
 </p>
